@@ -6,7 +6,7 @@ https://colab.research.google.com/notebooks/welcome.ipynb#recent=true
 
 ## Locally Setup and Installation
 
-###Windows
+### Windows
 
 
 ##### Python installation in windows
@@ -19,42 +19,50 @@ https://www.youtube.com/watch?v=hvZkxTpOG6A
 ```
 
 
-###MAC
+### MAC
 
 Type on Terminal
 
-#####HomeBrew installation
+##### HomeBrew installation
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```
-#####Python installation
+##### Python installation
 ```
 brew install python3
 ```
-#####Jupyter installation
+##### Jupyter installation
 ```
 brew install jupyter
 ```
 
 
-###Zip Download
+### Zip Download
 ```
 https://github.com/Prady96/DUDIC/archive/master.zip
 ```
 
-####Instructions
+#### Instructions
 ```
 1. Unzip the file
 
 Run .ipynb document in the Jupiter notebook locally 
 ```
 
-####Jupyter Notebook Tutorials
+#### Jupyter Notebook Tutorials
 ```
 https://www.youtube.com/watch?v=HW29067qVWk
 ```
 
-###If you have any doubts related to code segments, Feel free to mail at pradyumg@gmail.com
+## ALl the files are present in 15th_Oct_19 folder
+```
+Direct Link for files
+
+https://github.com/Prady96/DUDIC/blob/master/15th_Oct_19/seg1/Numerical%20Methods%20in%20Python.md
+
+https://github.com/Prady96/DUDIC/blob/master/15th_Oct_19/seg2/Numerical_Python_class.md
+```
+### If you have any doubts related to code segments, Feel free to mail at pradyumg@gmail.com
 
 
 
